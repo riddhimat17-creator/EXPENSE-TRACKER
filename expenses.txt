@@ -1,0 +1,4 @@
+banana,78
+banana,23
+milk,90
+bag,890
